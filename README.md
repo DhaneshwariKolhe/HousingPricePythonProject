@@ -9,11 +9,9 @@ This project aims to analyze housing price data using Python, leveraging librari
 - [Technologies Used](#technologies-used)
 - [Data Description](#data-description)
 - [Key Features](#key-features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
